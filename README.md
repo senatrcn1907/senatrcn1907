@@ -7,7 +7,8 @@ Versiyon kontrol sistemleri ve GitHub kullanımı üzerine temel bilgiye sahibim
 
 ## 📜 Sertifikalar
 
-- **BTK Akademi – Versiyon Kontrolleri: Git ve GitHub**
-  - 📅 Tamamlanma: 2025
-  - 🔗 Sertifika: [Versiyon_Kontrolleri__Git_ve_GitHub_Sertifika.pdf](https://github.com/user-attachments/files/24435028/Versiyon_Kontrolleri__Git_ve_GitHub_Sertifika.pdf)
+### Sertifika
+BTK Akademi üzerinden tamamladığım "Versiyon Kontrolleri: Git ve GitHub" eğitimine ait resmi sertifika:
+
+🎓 [Sertifikayı Görüntüle](https://www.btkakademi.gov.tr/portal/certificate/validate?certificateId=jK1hG9epB8)
 

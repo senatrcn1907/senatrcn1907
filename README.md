@@ -12,3 +12,11 @@ BTK Akademi üzerinden tamamladığım "Versiyon Kontrolleri: Git ve GitHub" eğ
 
 🎓 [Sertifikayı Görüntüle](https://www.btkakademi.gov.tr/portal/certificate/validate?certificateId=jK1hG9epB8)
 
+
+## Proje Hakkında
+
+Bu repository GitHub projesi kapsamında hazırlanmıştır.
+
+### İçerik
+- Python script
+- GitHub üzerinde public çalışma

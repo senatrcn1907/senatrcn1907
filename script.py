@@ -80,3 +80,4 @@ if (sonuc != -1) {
 	 
 	return 0;
 }
+print("Github Desktop çalışıyor")

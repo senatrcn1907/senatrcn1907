@@ -24,7 +24,7 @@ int bol(int dizi[], int bas_ind, int son_ind) {
 
     return i + 1;
 }
-
+print("test")
 
 void hizli_sirala(int dizi[], int bas_ind, int son_ind) {
 	if (bas_ind < son_ind) {

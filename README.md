@@ -20,3 +20,6 @@ Bu repository GitHub projesi kapsamında hazırlanmıştır.
 ### İçerik
 - Python script
 - GitHub üzerinde public çalışma
+
+### Amaç
+GitHub kullanımı ve Python ile temel çalışmaların gösterilmesi.

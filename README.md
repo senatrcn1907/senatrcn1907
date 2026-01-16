@@ -22,7 +22,7 @@ gcc main.c -o program
 ### Sertifika
 BTK Akademi üzerinden tamamladığım "Versiyon Kontrolleri: Git ve GitHub" eğitimine ait resmi sertifika:
 
-🎓 [Sertifikayı Görüntüle](https://www.btkakademi.gov.tr/portal/certificate/validate?certificateId=jK1hG9epB8)
+https://www.btkakademi.gov.tr/portal/certificate/validate?certificateld=jK1hG9epB8
 
 
 

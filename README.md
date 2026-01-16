@@ -1,9 +1,17 @@
-## 👋 Merhaba, ben Sena
+# GitHub Proje Ödevi
 
-Bilgisayar Programcılığı öğrencisiyim.  
-Versiyon kontrol sistemleri ve GitHub kullanımı üzerine temel bilgiye sahibim.
+Bu repo, GitHub dersi kapsamında hazırlanmıştır.
 
----
+## İçerik
+- script.py: Basit bir Python örnek scripti
+
+## Amaç
+Python ile temel bir işlem yapmayı göstermek.
+
+## Çalıştırma
+```bash
+python script.py
+
 
 ## 📜 Sertifikalar
 
@@ -13,13 +21,4 @@ BTK Akademi üzerinden tamamladığım "Versiyon Kontrolleri: Git ve GitHub" eğ
 🎓 [Sertifikayı Görüntüle](https://www.btkakademi.gov.tr/portal/certificate/validate?certificateId=jK1hG9epB8)
 
 
-## Proje Hakkında
 
-Bu repository GitHub projesi kapsamında hazırlanmıştır.
-
-### İçerik
-- Python script
-- GitHub üzerinde public çalışma
-
-### Amaç
-GitHub kullanımı ve Python ile temel çalışmaların gösterilmesi.

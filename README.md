@@ -12,9 +12,7 @@ Bir diziyi önce sıralayıp, ardından kullanıcıdan alınan değeri ikili ara
 
 ## Derleme ve Çalıştırma
 
-```bash
-gcc main.c -o program
-./program
+
 
 
 ## 📜 Sertifikalar

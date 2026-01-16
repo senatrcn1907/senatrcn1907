@@ -1,16 +1,20 @@
-# GitHub Proje Ödevi
+# GitHub Proje Ödevi – C Algoritma Uygulaması
 
-Bu repo, GitHub dersi kapsamında hazırlanmıştır.
+Bu repo, C dili ile yazılmış sıralama ve arama algoritmalarını içermektedir.
 
 ## İçerik
-- script.py: Basit bir Python örnek scripti
+- main.c  
+  - Quick Sort (Hızlı Sıralama)
+  - Binary Search (İkili Arama)
 
 ## Amaç
-Python ile temel bir işlem yapmayı göstermek.
+Bir diziyi önce sıralayıp, ardından kullanıcıdan alınan değeri ikili arama ile bulmak.
 
-## Çalıştırma
+## Derleme ve Çalıştırma
+
 ```bash
-python script.py
+gcc main.c -o program
+./program
 
 
 ## 📜 Sertifikalar
